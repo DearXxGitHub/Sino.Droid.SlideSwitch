@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0.1</version>
+    <title>Sino.Droid.SlideSwitch</title>
+    <authors>y-z-f</authors>
+    <owners>sino</owners>
+    <licenseUrl>http://opensource.org/licenses/GPL-3.0</licenseUrl>
+    <projectUrl>https://github.com/Xamarin-Cn/Sino.Droid.SlideSwitch</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android选择器组件</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Xamarin Android</tags>
+  </metadata>
+</package>

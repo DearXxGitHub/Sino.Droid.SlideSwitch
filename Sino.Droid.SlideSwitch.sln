@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sino.Droid.SlideSwitch", "Sino.Droid.SlideSwitch\Sino.Droid.SlideSwitch.csproj", "{4ECB467D-0338-4209-BF3E-DB9726875E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideSwitch.Sample", "SlideSwitch.Sample\SlideSwitch.Sample.csproj", "{8222B470-CAC3-404C-827B-17B4E09BE4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECB467D-0338-4209-BF3E-DB9726875E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECB467D-0338-4209-BF3E-DB9726875E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECB467D-0338-4209-BF3E-DB9726875E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECB467D-0338-4209-BF3E-DB9726875E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8222B470-CAC3-404C-827B-17B4E09BE4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8222B470-CAC3-404C-827B-17B4E09BE4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8222B470-CAC3-404C-827B-17B4E09BE4EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8222B470-CAC3-404C-827B-17B4E09BE4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8222B470-CAC3-404C-827B-17B4E09BE4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8222B470-CAC3-404C-827B-17B4E09BE4EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
